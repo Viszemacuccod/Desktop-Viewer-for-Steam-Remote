@@ -4,7 +4,7 @@
 ---Install---
 
 Unzip the file, and your ready.
-To use on steam, you need to add the "Desktop Viewer 0.2" shortcut.
+To use on steam, you need to add the "Desktop Viewer 0.2" shortcut as non-steam game.
 
 ---How to use?---
 
